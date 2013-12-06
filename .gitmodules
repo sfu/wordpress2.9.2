@@ -1,3 +1,6 @@
 [submodule "wp-content/themes/sfu_theme"]
 	path = wp-content/themes/sfu_theme
 	url = git@github.com:sfu/wordpress_sfu_theme.git
+[submodule "wp-content/plugins/http-authentication"]
+	path = wp-content/plugins/http-authentication
+	url = git@github.com:sfu/wordpress_http_authentication.git
