@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/sfu_theme"]
+	path = wp-content/themes/sfu_theme
+	url = git@github.com:sfu/wordpress_sfu_theme.git
