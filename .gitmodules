@@ -4,3 +4,6 @@
 [submodule "wp-content/plugins/http-authentication"]
 	path = wp-content/plugins/http-authentication
 	url = git@github.com:sfu/wordpress_http_authentication.git
+[submodule "wp-content/plugins/ca_sfu_icat_user"]
+	path = wp-content/plugins/ca_sfu_icat_user
+	url = git@github.com:sfu/wordpress_ca_sfu_icat_user.git
